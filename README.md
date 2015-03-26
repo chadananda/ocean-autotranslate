@@ -1,4 +1,4 @@
-# ocean-autotranslate
+# Ocean Auto Translate
 Google API to Auto Translate Books for Testing
 
 ## Installation
@@ -11,6 +11,9 @@ Google API to Auto Translate Books for Testing
 * Modify the languages.json file to include the languages you wish to translate into
 * Run the script with __node index.js__
 * Go have a coffee, it takes a lot of time to translate a book
+
+
+### Note: be careful, it can be expensive if you do this repeatedly. Google translate is not free.
 
 
 
