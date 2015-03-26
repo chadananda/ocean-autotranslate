@@ -1,0 +1,11 @@
+{
+	"google_key": "",
+	"language_file": "language.json",
+	"output": "../output",
+  "input": "../input",
+	"xpath": {
+		"unit": ".translation",
+		"source": ".english",
+		"dest": ".alt_lang"
+	}
+}

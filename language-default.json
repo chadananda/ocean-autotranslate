@@ -1,0 +1,27 @@
+{
+  "french": "fr",
+  "russian": "ru",
+  "italian": "it",
+  "farsi":  {
+    "code": "fa",
+    "dir": "rtl"
+  },
+  "arabic": {
+    "code": "ar",
+    "dir": "rtl"
+  },
+  "spanish": "es",
+  "urdu": {
+    "code": "ur",
+    "dir": "rtl"
+  },
+  "portuguese": "pt",
+  "romanian": "ro",
+  "german": "de",
+  "dutch": "nl",
+  "chinese": {
+    "code": "zh",
+    "dir": "rtl"
+  },
+  "japanese": "ja"
+}
